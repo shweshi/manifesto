@@ -1,0 +1,2 @@
+# manifesto
+My personal manifesto.
